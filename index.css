@@ -1,0 +1,36 @@
+img {
+    width: 400px;
+    height: 250px;
+    max-width: 500px;
+    max-height: 270px;
+border: 2px solid rgb(0, 174, 255);
+}
+table {
+    border: 2px solid purple;
+    background-color: plum;
+    left: 16%;
+    top: 58%;
+    position: absolute;
+}
+th, td {
+    border: 1px solid purple;
+    background-color: plum;
+}
+table, th, td {
+    width: 800px;
+    height: 30px;
+}
+p {
+    color: rgb(0, 89, 253);
+    font-size: 18px;
+}
+hr {
+    color: black;
+    height: 3px;
+    background-color: black;
+}
+h1 {
+    left: 32%;
+    top: 34%;
+    position: absolute;
+}
